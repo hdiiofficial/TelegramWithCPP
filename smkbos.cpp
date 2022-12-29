@@ -2,9 +2,9 @@
 CTBot HDev;
 
 void setup() {
-    Serial.Begin(9000);
-    HDev.wifiConnect("Your WiFi SSID", "Your Password Wifi");
-    HDev.setTelegramToken("Your Bot Token");
+    Serial.Begin(9000); // initialize the serial
+    HDev.wifiConnect("Your WiFi SSID", "Your Password Wifi"); // internet access
+    HDev.setTelegramToken("Your Bot Token"); // get on telegram (@botfather)
 }
 
 void loop() {
