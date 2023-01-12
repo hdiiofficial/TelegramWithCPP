@@ -1,5 +1,7 @@
 #include "CTBot.h"
+#define CALLBACK_QUERY_DATA  "QueryData"
 CTBot HDev;
+CTBotInlineKeyboard myKbd;
 
 void setup() {
     Serial.Begin(9000); // initialize the serial
