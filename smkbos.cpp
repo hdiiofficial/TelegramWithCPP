@@ -9,6 +9,7 @@ void setup() {
     HDev.setTelegramToken("Your Bot Token"); // get on telegram (@botfather)
 
         myKbd.addButton("HIDUPKAN LAMPU", "NYALAKAN", CTBotKeyboardButtonQuery);
+        myKbd.addButton("", "", );
 }
 
 void loop() {
