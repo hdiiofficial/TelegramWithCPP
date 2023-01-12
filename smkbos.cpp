@@ -7,6 +7,8 @@ void setup() {
     Serial.Begin(9000); // initialize the serial
     HDev.wifiConnect("Your WiFi SSID", "Your Password Wifi"); // internet access
     HDev.setTelegramToken("Your Bot Token"); // get on telegram (@botfather)
+
+        myKbd.addButton("HIDUPKAN LAMPU", "NYALAKAN", CTBotKeyboardButtonQuery);
 }
 
 void loop() {
