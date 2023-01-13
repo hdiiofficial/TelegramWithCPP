@@ -35,4 +35,11 @@ void loop() {
 
 
 
-// Copyright @hdiiofficial 
+/* Copyright @hdiiofficial 
+ Ini jangan di hapus bang 
+ Don't remove this bro 
+ Copy paste gaush hapus hapus copyright
+ If just rewrite or copy and paste don't remove my copyright
+ Kalo lu mau yg gada copyright ku ya mikir sendiri 
+ If you want write without my copyright please read the docs and use your brain LoL.
+*/
